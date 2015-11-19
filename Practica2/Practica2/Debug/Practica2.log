@@ -1,0 +1,18 @@
+﻿Compilación iniciada a las 19/11/2015 17:28:37.
+     1>Proyecto "C:\Users\Hector\Documents\GitHub\DISM\Practica2\Practica2\Practica2.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         D:\PROGRAMAS\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt incompleto.c
+         incompleto.c
+     1>c:\users\hector\documents\github\dism\practica2\practica2\incompleto.c(28): warning C4018: '<': no coinciden signed/unsigned
+     1>c:\users\hector\documents\github\dism\practica2\practica2\incompleto.c(47): warning C4018: '<': no coinciden signed/unsigned
+     1>c:\users\hector\documents\github\dism\practica2\practica2\incompleto.c(63): warning C4018: '<': no coinciden signed/unsigned
+     1>c:\users\hector\documents\github\dism\practica2\practica2\incompleto.c(89): warning C4018: '<': no coinciden signed/unsigned
+       Link:
+         D:\PROGRAMAS\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Hector\Documents\GitHub\DISM\Practica2\Debug\Practica2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Hector\Documents\GitHub\DISM\Practica2\Debug\Practica2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Hector\Documents\GitHub\DISM\Practica2\Debug\Practica2.lib" /MACHINE:X86 Debug\imagenBMP.obj
+         Debug\incompleto.obj
+         Practica2.vcxproj -> C:\Users\Hector\Documents\GitHub\DISM\Practica2\Debug\Practica2.exe
+     1>Compilación del proyecto terminada "C:\Users\Hector\Documents\GitHub\DISM\Practica2\Practica2\Practica2.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.47
